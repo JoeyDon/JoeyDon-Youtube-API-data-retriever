@@ -22,6 +22,7 @@ You can change some of credentials such as below in `index.js`
 index.js:
 var accessToken = "Enter ur token here";
 var apiKey = "Enter your google API key";
+```
 
 #### 3. Launch Your Job
 Finally, to launch your job simply type `node index.js`
