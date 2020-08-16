@@ -29,4 +29,3 @@ Finally, to launch your job simply type `node index.js`
 
 ## The Brief
 - Tech Stack: Node.js / JavaScript
-- Framework: Puppeteer
